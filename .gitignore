@@ -1,9 +1,2 @@
 # Ignora o diretório .venv
 /.venv/
-
-# Ignora arquivos de data para não correr risco de serem gerados acidentalmente
-data/phpvqZpLa.arff
-data/diabetes.csv
-data/diabetes_test_set.csv
-data/diabetes_train_set.csv
-
