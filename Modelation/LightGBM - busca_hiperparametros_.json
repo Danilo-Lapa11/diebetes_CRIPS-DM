@@ -1,13 +1,6 @@
 {
     "LightGBM": {
-        "best_params": {
-            "subsample": 0.8,
-            "num_leaves": 31,
-            "n_estimators": 50,
-            "max_depth": 9,
-            "learning_rate": 0.3,
-            "colsample_bytree": 0.6
-        },
+        "best_params": {"subsample": 0.8,"num_leaves": 31,"n_estimators": 50,"max_depth": 9,"learning_rate": 0.3,"colsample_bytree": 0.6},
         "mean_test_score": [
             0.408057568411283,
             0.3815802925264866,
@@ -96,7 +89,7 @@
             0.0024512731688219047,
             0.0021972659355535902
         ],
-        "acuracia: ": 0.6541935909270737,
+        "acuracia": 0.6541935909270737,
         "precision": 0.7068701710072988,
         "recall": 0.5021804259633701,
         "f1": 0.5103146669553696
